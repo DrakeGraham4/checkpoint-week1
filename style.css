@@ -1,5 +1,5 @@
 .row {
-  min-height: 10vh;
+  min-height: 5vh;
 }
 
 .hero-img {
@@ -13,8 +13,16 @@
 
 .header {
   min-height: 5vh;
+  font-family: "Permanent Marker", cursive;
 }
 
 .card2 {
   width: 50%;
+  transform: translateY(120px);
+}
+
+.kittens {
+  height: 300px;
+  width: 250px;
+  border-radius: 5px;
 }
